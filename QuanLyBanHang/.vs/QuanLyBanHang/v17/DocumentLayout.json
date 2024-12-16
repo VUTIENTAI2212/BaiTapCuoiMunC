@@ -1,0 +1,131 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vutai\\source\\repos\\QuanLyBanHang\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7252719A-8A01-4D7C-A856-36B3A77D5034}|QuanLyBanHang\\QuanLyBanHang.csproj|c:\\users\\vutai\\source\\repos\\quanlybanhang\\quanlybanhang\\chinhsuahoadonbanhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7252719A-8A01-4D7C-A856-36B3A77D5034}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\chinhsuahoadonbanhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7252719A-8A01-4D7C-A856-36B3A77D5034}|QuanLyBanHang\\QuanLyBanHang.csproj|C:\\Users\\vutai\\source\\repos\\QuanLyBanHang\\quanlybanhang\\trangchubanhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7252719A-8A01-4D7C-A856-36B3A77D5034}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\trangchubanhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7252719A-8A01-4D7C-A856-36B3A77D5034}|QuanLyBanHang\\QuanLyBanHang.csproj|C:\\Users\\vutai\\source\\repos\\QuanLyBanHang\\quanlybanhang\\chinhsuahoadonbanhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7252719A-8A01-4D7C-A856-36B3A77D5034}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\chinhsuahoadonbanhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7252719A-8A01-4D7C-A856-36B3A77D5034}|QuanLyBanHang\\QuanLyBanHang.csproj|c:\\users\\vutai\\source\\repos\\quanlybanhang\\quanlybanhang\\trangchubanhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7252719A-8A01-4D7C-A856-36B3A77D5034}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\trangchubanhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7252719A-8A01-4D7C-A856-36B3A77D5034}|QuanLyBanHang\\QuanLyBanHang.csproj|c:\\users\\vutai\\source\\repos\\quanlybanhang\\quanlybanhang\\themhoadonbanhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7252719A-8A01-4D7C-A856-36B3A77D5034}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\themhoadonbanhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7252719A-8A01-4D7C-A856-36B3A77D5034}|QuanLyBanHang\\QuanLyBanHang.csproj|C:\\Users\\vutai\\source\\repos\\QuanLyBanHang\\quanlybanhang\\themhoadonbanhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7252719A-8A01-4D7C-A856-36B3A77D5034}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\themhoadonbanhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7252719A-8A01-4D7C-A856-36B3A77D5034}|QuanLyBanHang\\QuanLyBanHang.csproj|c:\\users\\vutai\\source\\repos\\quanlybanhang\\quanlybanhang\\trangchubanhang.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7252719A-8A01-4D7C-A856-36B3A77D5034}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\trangchubanhang.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChinhSuaHoaDonBanHang.cs",
+              "DocumentMoniker": "C:\\Users\\vutai\\source\\repos\\QuanLyBanHang\\QuanLyBanHang\\ChinhSuaHoaDonBanHang.cs",
+              "RelativeDocumentMoniker": "QuanLyBanHang\\ChinhSuaHoaDonBanHang.cs",
+              "ToolTip": "C:\\Users\\vutai\\source\\repos\\QuanLyBanHang\\QuanLyBanHang\\ChinhSuaHoaDonBanHang.cs",
+              "RelativeToolTip": "QuanLyBanHang\\ChinhSuaHoaDonBanHang.cs",
+              "ViewState": "AgIAAIgBAAAAAAAAAADwv6sBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T03:52:49.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChinhSuaHoaDonBanHang.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\vutai\\source\\repos\\QuanLyBanHang\\QuanLyBanHang\\ChinhSuaHoaDonBanHang.cs",
+              "RelativeDocumentMoniker": "QuanLyBanHang\\ChinhSuaHoaDonBanHang.cs",
+              "ToolTip": "C:\\Users\\vutai\\source\\repos\\QuanLyBanHang\\QuanLyBanHang\\ChinhSuaHoaDonBanHang.cs [Design]",
+              "RelativeToolTip": "QuanLyBanHang\\ChinhSuaHoaDonBanHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T03:50:21.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TrangChuBanHang.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\vutai\\source\\repos\\QuanLyBanHang\\QuanLyBanHang\\TrangChuBanHang.cs",
+              "RelativeDocumentMoniker": "QuanLyBanHang\\TrangChuBanHang.cs",
+              "ToolTip": "C:\\Users\\vutai\\source\\repos\\QuanLyBanHang\\QuanLyBanHang\\TrangChuBanHang.cs [Design]",
+              "RelativeToolTip": "QuanLyBanHang\\TrangChuBanHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T08:42:28.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TrangChuBanHang.cs",
+              "DocumentMoniker": "C:\\Users\\vutai\\source\\repos\\QuanLyBanHang\\QuanLyBanHang\\TrangChuBanHang.cs",
+              "RelativeDocumentMoniker": "QuanLyBanHang\\TrangChuBanHang.cs",
+              "ToolTip": "C:\\Users\\vutai\\source\\repos\\QuanLyBanHang\\QuanLyBanHang\\TrangChuBanHang.cs",
+              "RelativeToolTip": "QuanLyBanHang\\TrangChuBanHang.cs",
+              "ViewState": "AgIAALwAAAAAAAAAAAAqwNMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T06:32:30.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ThemHoaDonBanHang.cs",
+              "DocumentMoniker": "C:\\Users\\vutai\\source\\repos\\QuanLyBanHang\\QuanLyBanHang\\ThemHoaDonBanHang.cs",
+              "RelativeDocumentMoniker": "QuanLyBanHang\\ThemHoaDonBanHang.cs",
+              "ToolTip": "C:\\Users\\vutai\\source\\repos\\QuanLyBanHang\\QuanLyBanHang\\ThemHoaDonBanHang.cs",
+              "RelativeToolTip": "QuanLyBanHang\\ThemHoaDonBanHang.cs",
+              "ViewState": "AgIAAFIBAAAAAAAAAAAEwF8BAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T10:46:14.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ThemHoaDonBanHang.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\vutai\\source\\repos\\QuanLyBanHang\\QuanLyBanHang\\ThemHoaDonBanHang.cs",
+              "RelativeDocumentMoniker": "QuanLyBanHang\\ThemHoaDonBanHang.cs",
+              "ToolTip": "C:\\Users\\vutai\\source\\repos\\QuanLyBanHang\\QuanLyBanHang\\ThemHoaDonBanHang.cs [Design]",
+              "RelativeToolTip": "QuanLyBanHang\\ThemHoaDonBanHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T14:51:50.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TrangChuBanHang.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\vutai\\source\\repos\\QuanLyBanHang\\QuanLyBanHang\\TrangChuBanHang.Designer.cs",
+              "RelativeDocumentMoniker": "QuanLyBanHang\\TrangChuBanHang.Designer.cs",
+              "ToolTip": "C:\\Users\\vutai\\source\\repos\\QuanLyBanHang\\QuanLyBanHang\\TrangChuBanHang.Designer.cs",
+              "RelativeToolTip": "QuanLyBanHang\\TrangChuBanHang.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T09:41:08.186Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
